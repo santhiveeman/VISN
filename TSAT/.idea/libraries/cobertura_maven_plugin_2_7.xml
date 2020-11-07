@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="cobertura-maven-plugin-2.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/cucumber/cobertura-maven-plugin-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/cucumber/cucumber-core-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/cucumber/cucumber-java-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/cucumber/cucumber-junit-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/cucumber/cucumber-jvm-deps-1.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/cucumber/cucumber-reporting-3.19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/cucumber/gherkin-2.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/cucumber/hamcrest-junit-2.0.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/cucumber/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/cucumber/junit-4.12.jar!/" />
+      <root url="file://$PROJECT_DIR$/../requiredjarfiles" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../requiredjarfiles" recursive="false" />
+  </library>
+</component>

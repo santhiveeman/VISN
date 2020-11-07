@@ -1,0 +1,6 @@
+Feature: Automation Testing for VISN Application
+
+  @Supplier
+  Scenario: Customer flow
+
+

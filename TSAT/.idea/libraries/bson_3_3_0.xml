@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="bson-3.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/Extentreport/bson-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/Extentreport/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/Extentreport/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/Extentreport/extentreports-4.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/Extentreport/freemarker-2.3.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/Extentreport/gson-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/Extentreport/httpclient-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/Extentreport/httpcore-4.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/Extentreport/httpmime-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/Extentreport/mongodb-driver-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../requiredjarfiles/Extentreport/mongodb-driver-core-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
